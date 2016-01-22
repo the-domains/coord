@@ -1,0 +1,28 @@
+name: Coord
+favicon: null
+layout_spectrum: 0.600491935852915
+typography_spectrum: 0.8005647752434015
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6608482382725924
+  lightness: 0.8054490850772709
+  saturation: 0.9013185908552259
+  rhythmicContrast: 0.7918936829082668
+purpose: []
