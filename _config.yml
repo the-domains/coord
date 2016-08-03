@@ -1,20 +1,6 @@
-name: Coord
-favicon: null
-layout_spectrum: 0.600491935852915
 typography_spectrum: 0.8005647752434015
-title: Coord
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#333333'
@@ -26,4 +12,27 @@ color:
   lightness: 0.8054490850772709
   saturation: 0.9013185908552259
   rhythmicContrast: 0.7918936829082668
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.600491935852915
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Jay Hardesty
+  email: info@coord.fm
+  url: 'http://coord.fm'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/af143875-14cb-4d89-94ef-8e781d6c478c.png
+name: Coord
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/30750838-c47e-4a34-a3a7-844bccbc7440.png
+title: Coord
 purpose: []
